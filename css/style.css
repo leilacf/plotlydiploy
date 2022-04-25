@@ -1,0 +1,34 @@
+body {
+
+    color: black;
+    font-family: 'Gill Sans';
+  }
+
+.jumbotron {
+    background-image: url('../images/bacteria4.jpg');
+    background-size: 100% 100%;
+    opacity: 0.8;
+    text-align: center;
+    color: peachpuff
+    
+} 
+
+.well {
+    background-color: rgb(205, 218, 230);
+    font-family: Verdana;
+    font-weight: 90;
+    font-size: smaller;
+    
+    
+      }
+
+
+#scrub{
+    font-family: 'Gill Sans';
+    font-weight: 30;
+    font-size: large;
+    background-color: whitesmoke;
+  }
+
+
+
