@@ -16,7 +16,7 @@ The final results can be seen below:
 ![This is an image](https://github.com/leilacf/plotlydiploy/blob/main/Belly%20Button%20display2.png)
 
 ### Resources
-- HTML was used to build the webpage
+- HTML used to build the webpage
 - CSS and Bootstrap to customize and style it
 - Json file format for the storage fo the data
 - JavaScript and Plotly to create the graph and plot visualizations
